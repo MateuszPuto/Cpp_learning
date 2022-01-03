@@ -1,0 +1,7 @@
+﻿  Source.cpp
+e:\programy\c++\lamanie_szyfru_cezara\project1\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\programy\c++\lamanie_szyfru_cezara\project1\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+e:\programy\c++\lamanie_szyfru_cezara\project1\source.cpp(63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programy\c++\lamanie_szyfru_cezara\project1\source.cpp(110): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> E:\programy\c++\lamanie_szyfru_cezara\Debug\Project1.exe
+  Project1.vcxproj -> E:\programy\c++\lamanie_szyfru_cezara\Debug\Project1.pdb (Partial PDB)
